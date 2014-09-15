@@ -6,7 +6,7 @@
 uploaded image URL:
 http://localhost:8080/uploads/youruploadedfile
    
-###Trigger Camera Shutter (PUT /:shoot)
+###Trigger Camera Shutter (GET /:shoot)
 _
 
 
